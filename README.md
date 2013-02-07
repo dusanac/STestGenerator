@@ -1,6 +1,7 @@
 STestGenerator
 ==============
 
+School test generator
 (English version will be available soon) 
 
 Program za generisanje testova provjere znanja.
